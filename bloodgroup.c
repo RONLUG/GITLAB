@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-// A was here!
+// A was here!!
+// A still here!
 // Hello A!
 // B was here too!
 void main()
